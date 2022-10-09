@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🔭 I’m currently working on OLIVIA (Olympiad Vocational Indonesia) 2022.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently learning How to Get Rich in 20's
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 2 languages ( English, Indonesian )
 
