@@ -2,7 +2,6 @@
 <h3>I am a Software Engineering Student.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on OLIVIA (Olympiad Vocational Indonesia) 2022.
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on open source
