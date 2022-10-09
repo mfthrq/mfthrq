@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mochammad Fadiil Thoriq</h1>
+<h1 align="center">Hi, I'm Mochammad Fadiil Thoriq</h1>
 <h3 align="center">Software Engineering Student.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
