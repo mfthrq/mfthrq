@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p>• 🔭 I’m currently working on design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.</p>
-<p>• 🌱 I’m currently learning How to Get Rich in 20's💸.</p>
+<p>• 🌱 I’m currently learning How to Get Rich in 20's💸 *lmao.</p>
 <p>• 👯 I’m looking to collaborate on open source.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
