@@ -1,5 +1,9 @@
-<h1 align="center">Mochammad Fadiil Thoriq</h1>
-<h3>I am a Software Engineering Student.</h3>
+<h1 align="center">
+  <img src="https://i.pinimg.com/originals/6b/cc/af/6bccaf2ed748a996f744ab970e99b4c4.gif" width="50px">
+  Mochammad Fadiil Thoriq
+  <img src="https://appstickers-cdn.appadvice.com/1444979733/829458602/a072bb9b84acc9d6e8569d4af9c39ede-8.gif" width="50px">
+</h1>
+<h3>I am a Software Engineering Student <img src="https://i.pinimg.com/originals/a9/50/86/a95086c3173ff2dd84dbaa45666a5d60.gif" width="35px"></h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🔭 I’m currently working on design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.
