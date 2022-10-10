@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://appstickers-cdn.appadvice.com/1444979733/829458602/1630043afd42f0034b127780c2318119-7.gif" width="50px">
+  <img src="https://appstickers-cdn.appadvice.com/1444979733/829458602/a072bb9b84acc9d6e8569d4af9c39ede-8.gif" width="50px">
   Mochammad Fadiil Thoriq
   <img src="https://appstickers-cdn.appadvice.com/1444979733/829458602/a072bb9b84acc9d6e8569d4af9c39ede-8.gif" width="50px">
 </h1>
