@@ -6,9 +6,8 @@
 <h3>I am a Software Engineering Student <img src="https://i.pinimg.com/originals/a9/50/86/a95086c3173ff2dd84dbaa45666a5d60.gif" width="35px"></h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p>• 🔭 I’m currently working on design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.</p>
-<p>• 🌱 I’m currently learning How to Get Rich in 20's💸 *lmao.</p>
-<p>• 👯 I’m looking to collaborate on open source.</p>
+<p>• 🔭 I just finished a design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.</p>
+<p>• 🌱 I’m interested in Data Science, Data Analyst and Machine Learning.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
 <p>• ⚡ Fun fact: I speak 2 languages ( English, Bahasa )</p>
