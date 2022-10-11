@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p>• 🔭 I just finished a design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.</p>
-<p>• 🌱 I’m interested in Data Science, Data Analyst and Machine Learning.</p>
+<p>• 🌱 I’m interested in Data Science, Data Analytics and Machine Learning.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
 <p>• ⚡ Fun fact: I speak 2 languages ( English, Bahasa )</p>
