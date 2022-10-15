@@ -24,5 +24,8 @@
 
 <h3 align="left">Stats:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=mfthrq&theme=synthwave)
+
 ![](https://komarev.com/ghpvc/?username=mfthrq&color=FF69B4)
+
 
