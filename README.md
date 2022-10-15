@@ -28,9 +28,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=mfthrq&color=FF69B4"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mfthrq&theme=synthwave" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mfthrq&theme=synthwave" width="50%"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfthrq&layout=compact" width="40%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfthrq&layout=compact" width="45%"/>
 
 
  
