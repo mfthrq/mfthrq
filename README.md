@@ -6,7 +6,7 @@
 <h3>I am a Software Engineering Student <img src="https://i.pinimg.com/originals/a9/50/86/a95086c3173ff2dd84dbaa45666a5d60.gif" width="35px"></h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p>• 🔭 I just finished a design web project for OLIVIA (Indonesian Vocational Olympiad) 2022.</p>
+<p>• 🔭 I am a student of IPB Vocational School.</p>
 <p>• 🌱 I’m interested in Data Science, Data Analytics and Machine Learning.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
