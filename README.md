@@ -10,7 +10,7 @@
 <p>• 🌱 I'm interested in Data Science, Data Analytics and Machine Learning.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
-<p>• ⚡ Fun fact: I speak 2 languages ( English, Bahasa )</p>
+<p>• ⚡ Fun fact: I always rebahan everyday 💤</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
