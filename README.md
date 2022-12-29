@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p>• 🔭 Undergraduate student of software engineering at IPB University.</p>
-<p>• 🌱 Interested in Data Science, Data Analytics and Machine Learning.</p>
+<p>• 🌱 Interested in Data.</p>
 <p>• 💬 Ask me about anything.</p>
 <p>• 😄 Pronouns: He/Him.</p>
 <p>• ⚡ Fun fact: I always rebahan everyday 💤</p>
