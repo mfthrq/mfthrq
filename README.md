@@ -6,10 +6,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p>• 🔭 Student.</p>
-<p>• 🌱 Interested in Data.</p>
+<p>• 🌱 Interested in Web/Mobile Dev & Data.</p>
 <p>• 💬 Ask me about anything.</p>
-<p>• 😄 Pronouns: He/Him.</p>
-<p>• ⚡ Fun fact: I always rebahan everyday 💤</p>
+<p>• ⚡ Open to IT project contribution.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
