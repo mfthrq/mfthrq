@@ -1,6 +1,6 @@
 ## 💫 About Me
 • 🔭 Student </br>
-• 🌱 Interested in Web/Mobile Dev & Data.</br>
+• 🌱 Interested in Web Dev & Data.</br>
 • ⚡ Open to IT project contribution.</br>
 
 
