@@ -1,3 +1,5 @@
+![pixel-jeff-chill-mario-2023-2](https://github.com/user-attachments/assets/c9db3280-a85a-49b6-b865-8a9b8f614866)
+
 ## 💫 About Me
 • 🔭 Student </br>
 • 🌱 Interested in Web Development & Data Analytics.</br>
