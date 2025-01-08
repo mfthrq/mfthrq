@@ -5,6 +5,7 @@
 • 🌱 Interested in Web Development & Data Analytics.</br>
 • ⚡ Open to IT project contribution.</br>
 
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/cd6c5a7b-5dc2-4b2d-b657-c895b49b0401)
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/exdecode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadiilthoriq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfthrq/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20194573/mochammad-fadiil-thoriq) 
@@ -16,7 +17,4 @@
 
 
 ## 💰 Donate
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mfthrq) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mfthrq) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mfthrq) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mfthrq) 
